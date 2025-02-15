@@ -1,0 +1,27 @@
+**SEQUENCE**
+Ensure that instructions are executed in a specific order to achieve a correct result.
+
+Pseudocode, Structure:
+ Step 1: Open the applications folder. 
+ Step 2: Open the text editor, 
+ Step 3: Create a new document. 
+
+CONTROL STRUCTURES: are statements that determine the flow of code execution based on specific conditions. Control structures help in directing the code down to a specific path, and this does a lot of logical work in a program. 
+
+IF-ELSE STATEMENTS: are used to make decisions, allowing programs to react differently under various conditions.
+
+ITERATIONS: also called loops are statements that enable a program to repeat a set of actions until a specific condition is met. 
+
+   Example: 
+   Suppose you have a database with 10 records and need to write a program that capitalizes the data in the last name field for all 10 records. 
+   
+   In pseudocode, here's how the logic of your program would work
+      -One: Load a record.
+      -Two: Capitalize the last name field. 
+      -Three: If it's the last record in the database, exit, else move to the next record, 
+      -Four: Repeat the process.
+
+CASE STUDY: Consider the logical structure that a developer would need to create a simple task list app. 
+   -Add tasks using a sequence
+   -Mark tasks as complete or incomplete using control structure
+   -Save and load tasks using iteration

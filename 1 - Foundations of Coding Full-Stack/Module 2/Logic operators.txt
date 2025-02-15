@@ -1,0 +1,12 @@
+Boolean: true and false value
+
+AND:
+   -Eveluate 2 expressions
+   -Result true if only both expression are true
+   -Returns false if one or both expressions are false
+
+OR:
+   -Eveluates 2 expressions
+   -Results true if one or both expression are true
+   -Results false on\y when BOTH expressions are false
+
