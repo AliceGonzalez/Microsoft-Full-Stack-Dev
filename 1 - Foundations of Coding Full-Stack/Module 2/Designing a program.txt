@@ -1,0 +1,19 @@
+Two common tools used by developers to help design a program's logical flow are flowcharts and pseudocode. 
+
+FLOWCHART: is a diagram that represents a process. It uses various shapes to show the applications logic Designing a programand arrows to illustrate the paths users can take through the software. 
+
+
+A developer can use a flowchart to represent the steps a user can possibly take in a login system.
+
+   EXAMPLE:
+   Suppose we are developing an e-commerce checkout process. 
+
+   FLOWCHART:
+   One: Selecting products. 
+   Two: adding them to the cart. 
+   Three: Entering shipping details. 
+   Four: Choosing a payment method. 
+   Five: Confirming the order. 
+   When a customer selects a payment method, there are multiple paths they might take. The flowchart makes sure all these options are mapped out. 
+
+   TOOLS: Visio or Miro 

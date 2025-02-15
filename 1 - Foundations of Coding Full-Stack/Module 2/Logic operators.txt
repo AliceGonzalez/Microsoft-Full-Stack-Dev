@@ -1,4 +1,5 @@
-Boolean: true and false value
+***BOLLEN OPERATORS*** 
+(true and false values)
 
 AND:
    -Eveluate 2 expressions
@@ -10,3 +11,39 @@ OR:
    -Results true if one or both expression are true
    -Results false on\y when BOTH expressions are false
 
+NOT:
+   -Operates on 1 expression
+   -Negates the truth value of the expression
+
+***CONDITIONAL STATEMENTS***
+(how to use boolean statements to control flow of a program)
+
+IF:
+   -Operates on 1 or more expressions
+   -Eveluates true value of the expression
+   -Executes code block based on the result of the evaluation
+   -Well designed to address expressions that evaluate to a single truth value
+
+SWITCH:
+   -Operates on expression that can have a variety of values
+   -Esecutes block code when a value (case) is true
+   -Includes default option in case none values is true
+
+(for variety of possible values use multiple IF statements or a SWITCH statement)
+
+***LOOPS***
+(Perform same tasks on multiple data item. repeat actions in a program either a specific number of times using a for loop, or until a condition is met)
+
+FOR:
+(Helpful in cases where the number of values the programmer has to process is known)
+   -Executes block code a specific number of times
+   -The number can be specified or a part of the variable
+
+   EXAMPLE: Imagine you have to process ten records in a database by removing spaces before and after the first and last name fields. You can bring the data into a for loop as a special variable that can store all ten records. You can then loop through each record in the variable until the loop gets to the last record.
+
+WHILE:
+(In cases where the number isn't known)
+   -Executes a block of code as long as a specified condition is true. 
+   -Can be used with Boolean statements.
+
+   EXAMPLE: Suppose you're processing records in a database and need to remove duplicates. You can use a while loop to check if a record has duplicates and delete them as long as they exist, without needing prior knowledge of how many duplicates there are.
