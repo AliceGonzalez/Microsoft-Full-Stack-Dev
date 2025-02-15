@@ -1,0 +1,38 @@
+PROJECT PLANNING TOOLS:
+Jira, Trello, and Asana, are software applications that help manage tasks, track progress, facilitate collaboration within development teams.
+
+Development tool Integrated development environment(IDE):
+-Visual Studio Code
+-Eclipse
+-Xcode. 
+
+By integrating the planning tool with the IDE, a developer can manage the tasks directly within the IDE. This integration not only simplifies task management by keeping it within the development environment, but also ensures that updates are synchronized across both platforms.
+
+VERSION CONTROL SYSTEM TOOL:
+track and manage changes to code over time, allowing multiple developers to collaborate on the same project without overriding one another's work.
+-GitHUb (can be sync with Jira)
+
+**HOW TO INTEGRATE TOOLS** 
+NATIVE INTEGRATIONS:
+Many tools come with native integrations which are built-in connections provided by software platforms that let users link with other applications directly without the need for additional coding or third-party software.
+
+MIDDLEWARE:
+Third-party tools that act as a bridge between different software applications, facilitating communications and data management between systems that may not have direct integration capabilities.
+    -Microsoft BizTalk
+    -Flow middleware platforms
+    -IBM WebSphere
+CUSTOM APIs:
+Many tools come with native integrations which are built-in connections provided by software platforms that let users link with other applications directly without the need for additional coding or third-party software.
+
+***WORKFLOW***
+-Outline key development stages
+-Planning
+-Development
+-Testing
+-Deployment
+
+***INTEGRATE TOOLS FOR BACK-END DEVELOPMENT***
+Step1: Define WORKFLOW
+Step2: Setup integration
+Step3: Set up Automations
+Set up the integration automations, so actions in the development tools like commits, pull requests, or successful builds automatically update tasks in the project planning tool. Once integration is complete, it offers many benefits, including enhanced productivity, better project tracking, and improved collaboration. Integration reduces the need for manual updates and data entry, enhancing overall productivity. This allows developers to focus more on coding rather than administrative tasks, thus speeding up the development process. 

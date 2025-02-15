@@ -1,0 +1,40 @@
+**FE RESPONSABILITIES**
+Responsiveness
+   -Ensuring websites adapt to different screen sizes and devices.
+
+Accessibility
+   -Making websites usable by individuals with disabilities.
+
+Security
+   -Implementing security measures to protect user data on the client-side.
+
+**BE RESPONSABILITIES**
+API development
+   -Creating and maintaining Application Programming Interfaces (APIs) that allow different systems to communicate.
+
+Data management
+   Storing and retrieving data efficiently and ensuring data security.
+
+System reliability
+   -Ensuring the back-end systems run smoothly, minimizing downtime, and addressing errors promptly.
+
+**SHARED RESPONSABILITIES**
+   -CODING: writing code to build user interfaces or back-end system features.
+   -TESTING: running unit, integration, and user interface tests to ensure everything functions correctly.
+   -DEBUGGING: identifying and fixing issues or "bugs" that arise during testing.
+
+**INTEGRATING FE & BE**
+   -APIs: Ensuring that front-end interfaces communicate effectively with back-end systems.
+
+   -Services: Handling server-side operations such as authentication and data management.
+
+***WORKFLOW***
+   -Planning and design: gathering requirements and defining technical specifications.
+
+   -Development: building the front-end user interface and back-end logic.
+
+   -Integration: connecting the front-end with back-end APIs and services.
+
+   -Testing: verifying that the application functions as expected through thorough testing.
+
+   -Deployment: launch the application and continuing to monitor its performance for issues.
